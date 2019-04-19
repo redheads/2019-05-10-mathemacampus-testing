@@ -1,4 +1,4 @@
-# Railway Oriented Programming - for C#-Programmers
+# README
 
 - Example code
 - slides
