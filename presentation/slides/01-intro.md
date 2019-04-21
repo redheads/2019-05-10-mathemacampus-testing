@@ -1,9 +1,7 @@
-<!-- .slide: data-background="images/railroad-tracks-163518_1280.jpg" -->
-
-<h2 style="position: absolute; top: 70px; right: -150px; color: white; text-transform: none;">Railway Oriented Programming</h2>
+<h2 style="position: absolute; top: 70px; right: -150px; color: black; text-transform: none;">Können willkürliche Tests und Zombies unseren Code besser machen?</h2>
 
 <div style="position: absolute; top: 520px; right: -150px; color: #ccc; text-transform: none; text-align: right" class="my-shadow">
-NUG Gelsenkirchen</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-05-07
+MATHEMA Campus</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-05-10
 </div>
 
 <div style="position: absolute; top: 520px; left: -145px; color: #ccc; text-transform: none; text-align: right" class="my-shadow">
@@ -15,7 +13,7 @@ NUG Gelsenkirchen</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;201
 </div>
 
 <div style="position: absolute; top: 630px; right: -16%;">
-  <p class="img-src">https://pixabay.com/users/Larisa-K-1107275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=163518</p>
+  <p class="img-src"></p>
 </div>
 
 ---
