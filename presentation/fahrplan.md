@@ -1,0 +1,22 @@
+# Fahrplan
+
+- Was gibt es für Tests
+  - unit tests
+  - integration tests
+  - system tests/e2e tests
+- Testpyramide
+- Vorteile von Tests
+  - ...
+- Mocking frameworks
+- TDD
+  - red green refactor
+  - TCR
+- Welche Muster erleichtern das Testen?
+- Mutation testing
+  - Qualität der Tests prüfen
+  - C# Framework
+  - Andere Sprachen
+- Property Based Testing
+  - Andere Herangehensweise...
+  - C# Framework
+  - Andere Sprachen
