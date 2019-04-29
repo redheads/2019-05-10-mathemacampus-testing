@@ -1,4 +1,6 @@
-<h2 style="position: absolute; top: 70px; right: -150px; color: black; text-transform: none;">Können willkürliche Tests und Zombies unseren Code besser machen?</h2>
+<!-- .slide: data-background="resources/drawio/zombie.png" data-background-size="contain" data-background-opacity="0.3" -->
+
+<h2 style="position: absolute; top: 300px; left: -100px; color: orange; text-transform: none;">Können willkürliche Tests und Zombies unseren Code besser machen?</h2>
 
 <div style="position: absolute; top: 520px; right: -150px; color: #ccc; text-transform: none; text-align: right" class="my-shadow">
 MATHEMA Campus</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-05-10
