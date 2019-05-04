@@ -24,9 +24,16 @@
   - Wartbarkeit
 - Mutation testing
   - Qualität der Tests prüfen
-  - C# Framework
-  - Andere Sprachen
+  - Grundidee: 
+    - Aenderung/Bugs in getesteten Code einbauen ("Mutanten")
+    - Wenn es keinen Einfluss auf das Test-Ergebnis hat, hat der Mutant ueberlebt -> schlecht
+    - Wenn der Mutant einen Test fehlschlagen laesst, ist der Mutant tot -> gut 
+  - [Stryker](https://stryker-mutator.io/)
+    - C# Framework: Stryker.NET
+    - Javascript
+    - Scala
+  - Java: [PIT](http://pitest.org/)
 - Property Based Testing
   - Andere Herangehensweise...
-  - C# Framework
+  - C# Framework: [FsCheck](https://fscheck.github.io/FsCheck/)
   - Andere Sprachen
