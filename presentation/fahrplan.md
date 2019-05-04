@@ -4,14 +4,24 @@
   - unit tests
   - integration tests
   - system tests/e2e tests
+  - andere Tests, die nicht in der Test Pyramide sind:
+    - Abnahmetest
+    - BDD
+    - Black-box vs white-box
+    - 
 - Testpyramide
 - Vorteile von Tests
   - ...
 - Mocking frameworks
+- Data-Driven Tests
+  - xUnit: Fact vs Theory
 - TDD
   - red green refactor
   - TCR
 - Welche Muster erleichtern das Testen?
+  - Allg: Die selben Muster, die auch fuer normalen Code gelten!
+  - Lesbarkeit
+  - Wartbarkeit
 - Mutation testing
   - Qualität der Tests prüfen
   - C# Framework
