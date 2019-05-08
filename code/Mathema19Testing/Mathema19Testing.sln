@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombies.Tests", "Zombies.Tests\Zombies.Tests.csproj", "{086B26C9-914C-431D-B06C-ACC81DE89316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zombies.Tests", "Zombies.Tests\Zombies.Tests.csproj", "{086B26C9-914C-431D-B06C-ACC81DE89316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombies", "Zombies\Zombies.csproj", "{065FE417-665C-4FAA-980B-9068C3D76818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{086B26C9-914C-431D-B06C-ACC81DE89316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{086B26C9-914C-431D-B06C-ACC81DE89316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{086B26C9-914C-431D-B06C-ACC81DE89316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065FE417-665C-4FAA-980B-9068C3D76818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065FE417-665C-4FAA-980B-9068C3D76818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065FE417-665C-4FAA-980B-9068C3D76818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065FE417-665C-4FAA-980B-9068C3D76818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
