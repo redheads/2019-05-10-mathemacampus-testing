@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zombies.Tests", "Zombies.Tests\Zombies.Tests.csproj", "{086B26C9-914C-431D-B06C-ACC81DE89316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombies", "Zombies\Zombies.csproj", "{065FE417-665C-4FAA-980B-9068C3D76818}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zombies", "Zombies\Zombies.csproj", "{065FE417-665C-4FAA-980B-9068C3D76818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBT.Tests", "PBT.Tests\PBT.Tests.csproj", "{0E1EC264-1E01-4A84-97A9-452CDC4D626E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{065FE417-665C-4FAA-980B-9068C3D76818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065FE417-665C-4FAA-980B-9068C3D76818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065FE417-665C-4FAA-980B-9068C3D76818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1EC264-1E01-4A84-97A9-452CDC4D626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1EC264-1E01-4A84-97A9-452CDC4D626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1EC264-1E01-4A84-97A9-452CDC4D626E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1EC264-1E01-4A84-97A9-452CDC4D626E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
