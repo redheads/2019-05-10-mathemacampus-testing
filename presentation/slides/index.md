@@ -16,3 +16,11 @@ FILE: 01-intro.md
 
 FILE: mutation-testing.md
 
+---
+
+FILE: property-based-testing.md
+
+---
+
+FILE: end.md
+
