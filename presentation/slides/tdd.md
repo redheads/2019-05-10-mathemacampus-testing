@@ -1,3 +1,6 @@
+## Test Driven Development (TDD)
+
+---
 
 <img src="images/tdd.png" class="borderless" style="position: relative; top: 10px; left: -400px; height: 250px">
 
@@ -12,11 +15,24 @@
   </ul>
 </div>
 
+<div style="position: absolute; top: 630px; right: -16%;">
+  <p class="img-src">https://github.com/enolive/tdd-stickers</p>
+</div>
+
 ---
 
-### Warum?
+### Fazit TDD
 
-- Design / Architektur ist von Anfang an **modular** (da testbar)
-- Entstehende Tests sind gleichzeitig
-  - Dokumentation
-  - und Beispiel für Konsumenten der API
+<ul class="small-font">
+<li class="fragment" data-fragment-index="0">Design / Architektur wird von Anfang an **modular**</li>
+    <ul>
+        <li class="fragment" data-fragment-index="0">vermeiden von zu großen Sprüngen ("Baby Steps")</li>
+        <li class="fragment" data-fragment-index="0">vermeiden von zu vielen Abhängigkeiten</li>
+        <li class="fragment" data-fragment-index="0">vermeiden (globaler) Zustände</li>
+    </ul>
+<li class="fragment" data-fragment-index="1">Entstehende Tests sind gleichzeitig:</li>
+    <ul>
+        <li class="fragment" data-fragment-index="1">Dokumentation</li>
+        <li class="fragment" data-fragment-index="1">und Beispiel für Konsumenten der "API"</li>
+    </ul>
+</ul>
