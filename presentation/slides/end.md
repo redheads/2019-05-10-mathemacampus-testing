@@ -1,6 +1,12 @@
 ## Fazit
 
-TODO
+- TDD
+  - führt oft zu besserem Design
+- Mutation testing
+  - Qualität von Tests untersuchen
+- Property based testing
+  - neue Eigenschaften vom Code entdecken
+  - automatische Testdaten-Generierung
 
 ---
 
