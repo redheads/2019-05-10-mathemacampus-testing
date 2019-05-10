@@ -6,6 +6,9 @@ namespace PBT.Tests
     // https://www.codit.eu/blog/property-based-testing-with-c/
     public class C_Add_PropertiesTests
     {
+        private static int Add(int x, int y) => x + y;
+
+
         // NOTE: Return type is "Property"!
         [Property]
         public Property Multiply_with_2_is_the_same_as_adding_the_same_number(int x)
@@ -24,11 +27,5 @@ namespace PBT.Tests
         {
             return (Add(x, y) == Add(y, x)).ToProperty();
         }
-        
-        private int Add(int x, int y)
-        {
-            return x + y;
-        }
-
     }
 }

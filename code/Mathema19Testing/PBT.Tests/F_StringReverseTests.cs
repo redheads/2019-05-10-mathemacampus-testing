@@ -7,7 +7,7 @@ namespace PBT.Tests
 {
     public class F_StringReverseTests
     {
-        public static string Reverse(string s)
+        private static string Reverse(string s)
         {
             var charArray = s.ToCharArray();
             Array.Reverse(charArray);
@@ -31,14 +31,14 @@ namespace PBT.Tests
         public Property Prepending_and_reversing_is_equal_to_reversing_and_appending(string input)
             => (Reverse("x" + input) == Reverse(input) + "x").ToProperty();
 
-        public static class NonEmptyStringArbitrary
+        private static class NonEmptyStringArbitrary
         {
             public static Arbitrary<string> Strings() => 
                 Arb.Default.String()
                     .Filter(x => x != null && !string.IsNullOrWhiteSpace(x));
         }
 
-        public class NonEmptyStringAttribute : PropertyAttribute
+        private class NonEmptyStringAttribute : PropertyAttribute
         {
             public NonEmptyStringAttribute() => 
                 Arbitrary = new[] {typeof(NonEmptyStringArbitrary)};
