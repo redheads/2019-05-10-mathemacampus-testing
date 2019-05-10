@@ -26,7 +26,7 @@ namespace PBT.Tests
         [NonEmptyString]
         public Property First_string_input_is_last_string_output(string input)
             => (Reverse(input).Last() == input.First()).ToProperty();
-        
+            
         [NonEmptyString]
         public Property Prepending_and_reversing_is_equal_to_reversing_and_appending(string input)
             => (Reverse("x" + input) == Reverse(input) + "x").ToProperty();
