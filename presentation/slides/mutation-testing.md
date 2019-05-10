@@ -1,7 +1,12 @@
 ## Mutation testing
 
+----
+
+## Mutation testing
+
 Warum?
 
+- Weil Code Coverage nicht die ganze Wahrheit ist
 - Qualität der Tests prüfen
 
 ----
@@ -18,6 +23,7 @@ Warum?
 
 ### Mutationen
 
+![img](images/stryker-mutators.png)
 
 ----
 
