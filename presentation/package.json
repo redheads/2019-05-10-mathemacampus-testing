@@ -1,15 +1,16 @@
 {
-  "name": "TODO",
+  "name": "mathemacampus-2019-zombies-testing",
   "version": "1.0.0",
-  "description": "Slides for TODO",
+  "description": "Slides for MATHEMA Campus 2019 Zombies Testing",
   "main": "reveal.html",
   "scripts": {
     "start": "reveal-md slides/index.md -w --template reveal.html --highlight-theme foundation",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pdf": "decktape --chrome-arg=--no-sandbox -s 1920x1080 -p 50 --load-pause 50 reveal http://localhost:1948/index.md#/ pdf/TODO.pdf"
+    "pdf": "decktape --chrome-arg=--no-sandbox -s 1920x1080 -p 50 --load-pause 50 reveal http://localhost:1948/index.md#/ pdf/mathemacampus-2019-zombies-testing.pdf"
   },
   "keywords": [
-    "TODO",
+    "property based testing",
+    "mutation testing",
     "C#",
     "TDD",
     "slides"
