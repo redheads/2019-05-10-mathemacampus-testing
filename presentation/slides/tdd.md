@@ -2,9 +2,9 @@
 
 ---
 
-<img src="images/tdd.png" class="borderless" style="position: relative; top: 10px; left: -400px; height: 250px">
+<img src="images/tdd.png" class="borderless" style="position: relative; top: 10px; left: -400px; height: 400px">
 
-<div style="position: absolute; top: 100px; left: 200px; height: 1000px; width: 800px;">
+<div style="position: absolute; top: 150px; left: 300px; height: 1000px; width: 800px;">
   <ul class="small-font">
     <li class="fragment" data-fragment-index="0">Test schreiben</li>
     <li class="fragment" data-fragment-index="1">Test sollte fehlschlagen</li>

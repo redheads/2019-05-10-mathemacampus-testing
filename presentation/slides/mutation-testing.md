@@ -15,8 +15,8 @@ Warum?
 
 <ul>
     <li class="fragment" data-fragment-index="0">Änderung/Bugs in getesteten Code einbauen ("Mutanten")</li>
-    <li class="fragment" data-fragment-index="1">Wenn es keinen Einfluss auf das Test-Ergebnis hat, hat der Mutant überlebt &#x1F615;</li>
-    <li class="fragment" data-fragment-index="2">Wenn der Mutant einen Test fehlschlagen lässt, ist der Mutant tot &#x2713;</li>
+    <li class="fragment" data-fragment-index="1">Wenn es keinen Einfluss auf das Test-Ergebnis hat, hat der Mutant überlebt &#x1F615; &#x1f9df; &#x26d4;</li>
+    <li class="fragment" data-fragment-index="2">Wenn der Mutant einen Test fehlschlagen lässt, ist der Mutant tot &#x1F60E;</li>
 </ul>
 
 ----

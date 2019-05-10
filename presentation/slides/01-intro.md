@@ -51,9 +51,9 @@ MATHEMA Campus</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-0
 
 ---
 
-## Vorteile
+## Vorteile von Tests
 
-- Dokumentation
-- Modular
-- Wartbar
-- ...
+- Dokumentation <!-- .element: class="fragment" data-fragment-index="1" -->
+- Modular <!-- .element: class="fragment" data-fragment-index="2" -->
+- Wartbar <!-- .element: class="fragment" data-fragment-index="3" -->
+- ... <!-- .element: class="fragment" data-fragment-index="3" -->

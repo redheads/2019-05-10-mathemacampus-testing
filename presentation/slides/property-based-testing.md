@@ -257,14 +257,15 @@ public Property Anything_divisible_by_three_but_not_five_returns_fizz(int input)
 
 ---
 
+### Property Based Testing
+
 ### Zusammenfassung
 
-Property Based Testing ist gut für
-
-- Algorithmen
-- alles, was keinen Zustand hat
-- kann für Testdatengenerierung eingesetzt werden
+- gut für Algorithmen und alles, was keinen Zustand hat
+- Testdatengenerierung
 - wie TDD: mehr Design-Tool als Test-Tool
+- Gegensatz zu TDD: nicht beispielbasiert!
+  - man muss mehr denken &#x1F92F;
 
 Notes:
 
