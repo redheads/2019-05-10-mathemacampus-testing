@@ -182,6 +182,19 @@ Zu mathematisch?
 
 ---
 
+#### Beispiel: string.Reverse
+
+Eigenschaften von string.Reverse()?
+
+- zweimaliger Aufruf liefert wieder das Original
+- Ergebnis hat die selbe Laenge wie Original
+- Erster Buchstabe des Originals entspricht letztem Buchstaben der Ausgabe
+- Zeichen vorne hinzufuegen mit anschliessendem reverse sollte gleich reverse von hinten anhaengen sein.
+- Reihenfolge ist an der Mitte gespiegelt
+- usw...
+
+---
+
 #### Beispiel: MD5
 
 - The hash is 32 characters long.
@@ -251,7 +264,7 @@ Property Based Testing ist gut für
 - Algorithmen
 - alles, was keinen Zustand hat
 - kann für Testdatengenerierung eingesetzt werden
-- Validierungen
+- wie TDD: mehr Design-Tool als Test-Tool
 
 Notes:
 
