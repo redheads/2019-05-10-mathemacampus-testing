@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/drawio/zombie.png" data-background-size="contain" data-background-opacity="0.3" -->
 
-<h2 style="position: absolute; top: 300px; left: -100px; color: orange; text-transform: none;">Können willkürliche Tests und Zombies unseren Code besser machen?</h2>
+<h2 style="position: absolute; top: 10px; left: -100px; color: orange; text-transform: none; text-align: left">Können willkürliche Tests und Zombies unseren Code besser machen?</h2>
 
 <div style="position: absolute; top: 520px; right: -150px; color: #ccc; text-transform: none; text-align: right" class="my-shadow">
 MATHEMA Campus</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-05-10
@@ -15,7 +15,10 @@ MATHEMA Campus</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-0
 </div>
 
 <div style="position: absolute; top: 630px; right: -16%;">
-  <p class="img-src"></p>
+  <p class="img-src">https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=25637</p>
+</div>
+<div style="position: absolute; top: 610px; right: -16%;">
+  <p class="img-src">https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=156055</p>
 </div>
 
 ---

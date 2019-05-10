@@ -14,6 +14,10 @@ FILE: 01-intro.md
 
 ---
 
+FILE: test-pyramid.md
+
+---
+
 FILE: mutation-testing.md
 
 ---
