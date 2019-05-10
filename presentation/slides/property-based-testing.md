@@ -162,11 +162,19 @@ Add(a, Add(b, c)) == Add(Add(a, b), c) // Associativity
 Add(a, IDENTITY) == a                  // Identity
 ```
 
----
+----
 
-    Let’s talk about the **Identity** property. The Identity property states that calling the function with **any value and the identity will always yield the same value**. When you think about that, the IDENTITY of Add is 0. Conversely the IDENTITY value of Mul is 1 because any number multiplied by 1 will always be that number itself. 
-    
-    This is what separates Add and Mul.
+#### Was ist Identity?
+
+Aufruf der Funktion mit einem Wert und der Identity gibt den Wert zurück
+
+- Bsp.:
+  - Addition: Identity ist Zahl `0`
+  - Multiplikation: Identity ist Zahl `1`
+
+- Identity Property unterscheidet Addition von Multiplikation
+- Kommutativ und Assoziativ Properties sind gleich
+
 
 ---
 
@@ -236,29 +244,21 @@ public Property Anything_divisible_by_three_but_not_five_returns_fizz(int input)
 
 ---
 
-#### Andere Beispiele
-
-- [Dreieck (C#)](https://techbeacon.com/app-dev-testing/how-make-your-code-bulletproof-property-testing)
-- [Stack (Scala)](https://hackernoon.com/exploring-property-based-testing-with-scalacheck-simple-examples-bcdc34600810)
-- [FizzBuzz (Scala)](https://hackernoon.com/exploring-property-based-testing-with-scalacheck-simple-examples-bcdc34600810)
-- [Http client (Go)](https://dev.to/quii/property-based-testing-in-real-life-4db8)
-
-
----
-
 ### Zusammenfassung
 
-Property Based Testing ist gut für:
+Property Based Testing ist gut für
 
 - Algorithmen
 - alles, was keinen Zustand hat
 - kann für Testdatengenerierung eingesetzt werden
 - Validierungen
 
----
+Notes:
 
-## Resources
-
+- [Dreieck (C#)](https://techbeacon.com/app-dev-testing/how-make-your-code-bulletproof-property-testing)
+- [Stack (Scala)](https://hackernoon.com/exploring-property-based-testing-with-scalacheck-simple-examples-bcdc34600810)
+- [FizzBuzz (Scala)](https://hackernoon.com/exploring-property-based-testing-with-scalacheck-simple-examples-bcdc34600810)
+- [Http client (Go)](https://dev.to/quii/property-based-testing-in-real-life-4db8)
 - https://blog.gopheracademy.com/advent-2017/property-based-testing/
 - http://www.erikschierboom.com/2016/02/22/property-based-testing/
 - https://www.codit.eu/blog/property-based-testing-with-c/
