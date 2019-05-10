@@ -48,3 +48,12 @@ MATHEMA Campus</br><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;2019-0
     <li style="margin-top: 2rem;"><img src="images/redheads-logo.png" class="borderless" style="height: 80px;"></li>
   </ul>
 </div>
+
+---
+
+## Vorteile
+
+- Dokumentation
+- Modular
+- Wartbar
+- ...
