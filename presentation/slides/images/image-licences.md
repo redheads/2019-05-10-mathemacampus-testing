@@ -3,3 +3,4 @@
 - [Karl_Popper.jpg](Von LSE library - https://www.flickr.com/photos/lselibrary/3833724834/in/set-72157623156680255/, No restrictions, https://commons.wikimedia.org/w/index.php?curid=9694262) 24.1.2019
 - [xkcd_random_number.png](https://xkcd.com/221/)
 - [pyramid-vs-ice-cream-cone.png](https://medium.com/@fistsOfReason/testing-is-good-pyramids-are-bad-ice-cream-cones-are-the-worst-ad94b9b2f05f)
+- [TDD](https://github.com/enolive/tdd-stickers/blob/master/TDD.png)

@@ -14,6 +14,10 @@ FILE: 01-intro.md
 
 ---
 
+FILE: tdd.md
+
+---
+
 FILE: test-pyramid.md
 
 ---
